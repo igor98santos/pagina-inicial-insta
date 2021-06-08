@@ -1,0 +1,16 @@
+body{
+    background-image: url(imagens/backgroud\ bom\ eu\ acho.jpg);
+}
+.gamegran{
+    padding: 250px 100px;
+    text-align: end;
+}
+h1{
+    color: rgb(44, 96, 238);
+}
+.logo{
+    border: 2px red solid;
+    float: left;
+    clear: left;
+    padding: 1px 0.5px;
+}
